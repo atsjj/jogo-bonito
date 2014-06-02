@@ -1,0 +1,7 @@
+ul
+  li
+    link-to "players.index" | Players
+  li
+    link-to "teams.index" | Teams
+
+outlet
